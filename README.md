@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Dot</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif">
+<h1 align="center">Hi 👋, I'm Amrin</h1>
+<h3 align="center">Web developer & CSE student from Dhaka 🍅</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dot1212&label=Profile%20views&color=0e75b6&style=flat" alt="dot1212" /> </p>
+<p align="center">
+  <a href="https://dot1212.github.io/portfolio/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://linktr.ee/rins_art" target="_blank">🎨 Art & Crochet</a> •
+  <a href="mailto:rinsart1212@gmail.com">✉️ Email</a>
+</p>
 
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif">
 
-- 🌱 I’m currently learning **C/C++, Python , MySQL**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dot1212&label=Profile%20views&color=e8706b&style=flat" alt="dot1212" /> </p>
+
+- 🌱 I'm currently learning **C/C++, Python, MySQL**
+
+- 🔭 Currently building a **Python project**
+
+- 🧶 I also run a small **crochet business** and take **art commissions**
 
 - ⚡ Fun fact **I love cats**
 
@@ -16,10 +26,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dot1212&show_icons=true&locale=en&layout=compact" alt="dot1212" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dot1212&show_icons=true&locale=en" alt="dot1212" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dot1212&" alt="dot1212" /></p>
+<h3 align="left">GitHub stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dot1212&show_icons=true&hide_border=true&theme=dark&bg_color=1c1116&title_color=e8706b&icon_color=fbe7ad&text_color=e8dccb" alt="stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dot1212&layout=compact&hide_border=true&theme=dark&bg_color=1c1116&title_color=e8706b&text_color=e8dccb" alt="languages" height="160" />
+</p>
