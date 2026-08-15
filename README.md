@@ -2,7 +2,7 @@
 <h3 align="center">Web developer & CSE student from Dhaka 🍅</h3>
 
 <p align="center">
-  <a href="https://dot1212.github.io/portfolio/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://dot1212.github.io/amrins-portfolio/" target="_blank">🌐 Portfolio</a> •
   <a href="https://linktr.ee/rins_art" target="_blank">🎨 Art & Crochet</a> •
   <a href="mailto:rinsart1212@gmail.com">✉️ Email</a>
 </p>
@@ -40,7 +40,7 @@
 
 <h3 align="left">Projects:</h3>
 
-- 🍅 **[Portfolio site](https://dot1212.github.io/portfolio/)** — HTML & CSS.
+- 🍅 **[Portfolio site](https://dot1212.github.io/amrins-portfolio/)** — HTML & CSS.
 
 - 📰 **The Crime Gazette** — crime record database system (Oracle SQL, Flask)
 
