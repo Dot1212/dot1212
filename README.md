@@ -38,8 +38,10 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dot1212&show_icons=true&hide_border=true&theme=dark&bg_color=1c1116&title_color=e8706b&icon_color=fbe7ad&text_color=e8dccb" alt="stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dot1212&layout=compact&hide_border=true&theme=dark&bg_color=1c1116&title_color=e8706b&text_color=e8dccb" alt="languages" height="160" />
-</p>
+<h3 align="left">Projects:</h3>
+
+- 🍅 **[Portfolio site](https://dot1212.github.io/portfolio/)** — HTML & CSS, three pages, no framework
+
+- 📰 **The Crime Gazette** — crime record database system (Oracle SQL, Flask)
+
+- 🐍 **Python project** — in progress
