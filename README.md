@@ -40,7 +40,7 @@
 
 <h3 align="left">Projects:</h3>
 
-- 🍅 **[Portfolio site](https://dot1212.github.io/portfolio/)** — HTML & CSS, three pages, no framework
+- 🍅 **[Portfolio site](https://dot1212.github.io/portfolio/)** — HTML & CSS.
 
 - 📰 **The Crime Gazette** — crime record database system (Oracle SQL, Flask)
 
